@@ -3,15 +3,8 @@ h1 {
     text-align: center;
 }
 
-body {
-    background-color: #424747;
-}
-
 p {
     color: #ffd600;
     text-align: left;
-    padding: 20px 30px;
+    padding: 5px;
 }
-
-
-
